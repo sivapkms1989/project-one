@@ -1,0 +1,43 @@
+Php Interview Questions:
+
+1.php?
+2.diff b/w get and post?
+3.diff b/w session n cookie?
+4.diff b/w include and require?
+5.use of in_array?
+6.get no of elements in an array?
+7.session start,register,destroy?
+8.diff b/w explode and implode?
+9.use of header function?
+10.how to stop execution of a php script?
+11.use of isset?
+12.how to define a constant?
+13.Scope Resolution Operator?-token that allows access to static, constant, and overridden properties or methods of a class
+14.diff b/w == and === operator?
+15.What are constructor and destructor in PHP ?
+16.How to increase the execution time of a PHP script ? -- ini_set(‘max_execution_time’, 300);
+17.types of errors?
+18.encryption methods in php?
+19.difference between unset and unlink ?
+20.
+
+
+Have you used oops concepts in your project
+
+difference between public, private, and protected?
+
+1.inheritance?it will support multi inheritance?
+2.encapsulation?
+3.polymorphism?
+
+
+MYSQL:
+
+1.how to get the different records from a salary column?
+2.how to get the records from 15 to 30 records?
+3.foreign key?
+4.primary key?
+5.join and types of join?
+6.how to get last insert id in mysql?
+7.how to get the records only from country india,australia,singapore?
+8.use of LIKE keyword ?
