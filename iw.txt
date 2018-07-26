@@ -1,6 +1,6 @@
 Php Interview Questions:
 
-hellllllllllllo
+hellllllllllllo world
 
 1.php?
 2.diff b/w get and post?
@@ -17,7 +17,7 @@ hellllllllllllo
 13.Scope Resolution Operator?-token that allows access to static, constant, and overridden properties or methods of a class
 14.diff b/w == and === operator?
 15.What are constructor and destructor in PHP ?
-16.How to increase the execution time of a PHP script ? -- ini_set(‘max_execution_time’, 300);
+16.How to increase the execution time of a PHP script ? -- ini_set(â€˜max_execution_timeâ€™, 300);
 17.types of errors?
 18.encryption methods in php?
 19.difference between unset and unlink ?
