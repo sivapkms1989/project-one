@@ -1,5 +1,7 @@
 Php Interview Questions:
 
+hellllllllllllo
+
 1.php?
 2.diff b/w get and post?
 3.diff b/w session n cookie?
