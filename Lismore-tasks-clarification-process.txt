@@ -1,0 +1,17 @@
+So far i have completed the following reference no in the excel sheet:
+
+Ref No : 
+Last Week:
+6,7,45,63,69,85,95,96,97
+
+
+This week :
+43,44,48,50,51,84,92,93,97
+
+This week:(05/07/2018)
+4
+
+
+Needs to get clarified :
+
+68,87,4
